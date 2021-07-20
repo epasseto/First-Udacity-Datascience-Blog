@@ -6,14 +6,7 @@ How about seeing how answers changed between this two time windows?
 
 Hom many people referred to **Python**, or to **SQL** in this time lapse?
 
-![lil devilb](./Lildev.png)
-
-![lil devilb](./Lildev.PNG)
-
-<img src="./Lildev.png" class="img-responsive" alt="">
-
-<img src="./Lildev.PNG" class="img-responsive" alt="">
-
+![lil devil](./Lildev.png)
 
 Let´s see some answers for this, and other questions in my project!
 
