@@ -9,3 +9,5 @@ This commitment is part of my project for automatically processing data and taki
 You can find my project [here](https://github.com/epasseto/UdacityFirstProject)
 
 Webpage for this project [here](https://epasseto.github.io/First-Udacity-Datascience-Blog/)
+
+Config [here](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/_config.yml)
