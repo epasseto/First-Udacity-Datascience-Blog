@@ -6,9 +6,9 @@ How about seeing how answers changed between this two time windows?
 
 Hom many people referred to **Python**, or to **SQL** in this time lapse?
 
-![lil devil](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.png)
+[![lil devil](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.png)]
 
-![lil devil](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.PNG)
+[![lil devil](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.PNG)]
 
 <img src="https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.png" class="img-responsive" alt="">
 
