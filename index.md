@@ -1,4 +1,6 @@
-## First Project Udacity Datascience Course, GitHub Page
+## First Project for Udacity Datascience Course
+
+---
 
 Link for maintaining the content of this blog [here](https://github.com/epasseto/First-Udacity-Datascience-Blog/edit/gh-pages/index.md).
 
