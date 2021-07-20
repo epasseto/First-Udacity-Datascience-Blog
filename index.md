@@ -10,6 +10,8 @@ Hom many peopled referred to **Python**, or to **SQL** in this time lapse?
 
 Let´s see some answers for this, and other questions in my project!
 
+[my Jupyter Notebook](https://github.com/epasseto/UdacityFirstProject)
+
 ---
 
 Link for maintaining the content of this blog [here](https://github.com/epasseto/First-Udacity-Datascience-Blog/edit/gh-pages/index.md)
