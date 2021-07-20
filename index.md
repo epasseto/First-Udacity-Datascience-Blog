@@ -8,7 +8,12 @@ Hom many peopled referred to **Python**, or to **SQL** in this time lapse?
 
 ![lil devil](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.png)
 
+![lil devil](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.PNG)
+
 <img src="https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.png" class="img-responsive" alt="">
+
+<img src="https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/gh-pages/lildev.PNG" class="img-responsive" alt="">
+
 
 Let´s see some answers for this, and other questions in my project!
 
