@@ -6,7 +6,7 @@ After commitig, Website rebuilt page [here](https://jekyllrb.com/).
 
 ---
 
-```markdown and other GitHub environmental details for this blog
+Markdown and other GitHub environmental details for this blog
 
 This Webpage is formatted using **Markdown**
 
@@ -17,4 +17,3 @@ This page was based on Jekyll theme **Minimal** [here](https://github.com/epasse
 GitHub support can be found [here](https://support.github.com/contact).
 
 GitHub documentation is [here](https://docs.github.com/categories/github-pages-basics/)
-```
