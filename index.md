@@ -1,4 +1,14 @@
-## First Project for Udacity Datascience Course
+## Stack Overflow Survey 2011 Vs 2020
+
+So many things changed in the world in this time... and **Stack Overflow** questions & answers for programmers has being growing so much...
+
+How about seeing how answers changed between this two time windows?
+
+Hom many peopled referred to **Python**, or to **SQL** in this time lapse?
+
+![lil devil](https://github.com/epasseto/First-Udacity-Datascience-Blog/blob/main/Lil%20Dev.jpg)
+
+Let´s see some answers for this, and other questions in my project!
 
 ---
 
