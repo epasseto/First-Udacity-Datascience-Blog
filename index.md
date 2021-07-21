@@ -6,24 +6,24 @@
 
 So many things changed in the world in this time... and **Stack Overflow** questions & answers for programmers has being growing so much...
 
-#### Introduction
+### Introduction
 
 #### Question 1
 Explanation
 
-Visualisation
+![World](./WorldProgramming.png)
 
 #### Question 2
 Explanation
 
-Visualisation
+![North America](./NorthAmerica.png)
 
 #### Question 3
 Explanation
 
-Visualisation
+![Zgen](./NorthAmerica.png)
 
-#### Conclusion
+### Conclusion
 
 How about seeing how answers changed between this two time windows?
 
