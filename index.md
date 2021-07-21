@@ -6,6 +6,24 @@
 
 So many things changed in the world in this time... and **Stack Overflow** questions & answers for programmers has being growing so much...
 
+#### Introduction
+
+#### Question 1
+Explanation
+Visualisation
+
+#### Question 2
+Explanation
+
+Visualisation
+
+#### Question 3
+Explanation
+
+Visualisation
+
+#### Conclusion
+
 How about seeing how answers changed between this two time windows?
 
 Hom many people referred to **Python**, or to **SQL** in this time lapse?
