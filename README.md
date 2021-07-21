@@ -1,8 +1,13 @@
-# First-Udacity-Datascience-Blog
+# Stack Overflow Survey 2011 vs 2020
+
+## First-Udacity-Datascience-Blog README
+
 
 ---
 
-My first blog, for **Udacity Datascience course**, first commitment.
+My first blog, for **Udacity Datascience course**, first commitment. 
+
+Version 1.1 07/21/2021
 
 This commitment is part of my project for automatically processing data and taking some results.
 
