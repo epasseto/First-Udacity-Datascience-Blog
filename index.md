@@ -91,8 +91,8 @@ This Webpage is formatted using **Markdown**
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/)
 
-This page was based on Jekyll theme **Minimal** [here](https://github.com/epasseto/First-Udacity-Datascience-Blog/settings/pages). The name of the theme is saved in the Jekyll `_config.yml` configuration file
-
 GitHub support can be found [here](https://support.github.com/contact)
 
 GitHub documentation is [here](https://docs.github.com/categories/github-pages-basics/)
+
+This Webpage is based on Jekyll theme **Midnight**, that you can find [here](https://github.com/epasseto/First-Udacity-Datascience-Blog/settings/pages)
